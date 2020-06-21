@@ -16,3 +16,6 @@ He also created the distributed version control system Git and the scuba dive lo
 > I'm not a Christian. I'm agnostic.
 > The other rule is 'Be proud of what you do.'
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/220px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg"/>
+
+
