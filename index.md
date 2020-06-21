@@ -8,4 +8,11 @@ He also created the distributed version control system Git and the scuba dive lo
 * American
 * Linux
 * Tux
- 
+
+
+> There are like two golden rules in life.
+> One is 'Do unto others as you would want them to do unto you.'
+> For some reason, people associate this with Christianity.
+> I'm not a Christian. I'm agnostic.
+> The other rule is 'Be proud of what you do.'
+
